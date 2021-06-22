@@ -1,0 +1,3 @@
+/home/nm4tt/Documents/C C++ Code/C_BasicCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nm4tt/Documents/C C++ Code/C_BasicCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nm4tt/Documents/C C++ Code/C_BasicCalculator/cmake-build-debug/CMakeFiles/C_BasicCalculator.dir
