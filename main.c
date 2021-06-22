@@ -7,6 +7,7 @@ int main() {
 
     printf("Welcome to a basic C calculator.");
 
+    //Looping until user wants to stop.
     do {
         printf("\n\nChoose what you want to do:\n");
         printf("Addition(1)\n"
@@ -19,7 +20,7 @@ int main() {
         printf("\nOption selected: ");
         scanf("%d", &option);
 
-
+        //basic menu.
         switch (option) {
             case 1: {
                 printf("How many numbers will you use?\n");
